@@ -1,5 +1,4 @@
-# my----C--programs
-Collection of simple C programs like Fibonacci, Linear Search, Matrix handling, etc.”
+
 
 # My C Programs
 
